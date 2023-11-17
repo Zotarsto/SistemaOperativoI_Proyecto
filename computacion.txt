@@ -1,0 +1,179 @@
+¿Qué significa la sigla "CPU"?
+Central Processing Unit
+Computer Personal Unit
+Central Program Unit
+1
+
+¿Cuál de las siguientes opciones es un sistema operativo?
+Microsoft Excel
+Windows
+Adobe Photoshop
+2
+
+¿Qué es un "software" en informática?
+Un conjunto de programas y datos que realizan una tarea
+El hardware principal de una computadora
+Una parte física de la computadora
+1
+
+¿Qué es un "malware"?
+Software malicioso diseñado para dañar una PC
+Un software de seguridad para proteger una computadora
+Un programa que acelera la velocidad de una computadora
+1
+
+¿Cuál de las siguientes opciones es un S.O de código abierto?
+Linux
+Windows
+macOS
+1
+
+¿Qué función tiene un firewall en una red de computadoras?
+Controlar el tráfico de red y proteger la red de amenazas
+Acelerar la velocidad de la red
+Realizar copias de seguridad de los datos de la red
+1
+
+¿Cuál es el lenguaje de programación más utilizado en el desarrollo web?
+HTML
+Java
+Python
+1
+
+¿Qué significa la sigla "URL"?
+Uniform Resource Locator
+Universal Reference Link
+User Requested Link
+1
+
+¿Cuál es la función principal de un navegador web?
+Mostrar páginas web y permitir la navegación en internet
+Procesar y almacenar datos en una computadora
+Proteger una computadora contra virus y malware
+1
+
+¿Qué es un "pixel" en el contexto de la informática?
+El punto más pequeño en una imagen digital
+Una unidad de medida de velocidad de procesamiento
+Un dispositivo de entrada en una computadora
+1
+
+¿Cuál de las siguientes opciones es un lenguaje de marcado utilizado para crear páginas web?
+HTML
+Java
+Python
+1
+
+¿Qué es un "sistema de gestión de bases de datos" (DBMS)?
+Un software que permite gestionar y organizar datos 
+Un dispositivo de entrada en una computadora
+Un lenguaje de programación utilizado para crear aplicaciones 
+1
+
+¿Qué función tiene una dirección IP en una red de computadoras?
+Identificar de manera única un dispositivo en una red
+Determinar la velocidad de la conexión a internet
+Encriptar datos transmitidos en la red
+1
+
+¿Cuál es el protocolo de transferencia de archivos utilizado para cargar y descargar archivos en servidores web?
+FTP (File Transfer Protocol)
+HTTP (Hypertext Transfer Protocol)
+SMTP (Simple Mail Transfer Protocol)
+1
+
+¿Qué es un "byte" en informática?
+Una unidad de información que consta de 8 bits
+Una unidad de medida de velocidad de procesamiento
+Un tipo de virus informático
+1
+
+¿Cuál de las siguientes opciones es una red inalámbrica que permite la conexión a internet en áreas públicas?
+Wi-Fi
+Bluetooth
+Ethernet
+1
+
+¿Qué es un "hipervínculo" en el contexto de la navegación web?
+Un enlace interactivo que permite saltar a otra página web
+Un tipo de virus informático
+Un dispositivo de entrada en una computadora
+1
+
+¿Cuál es el proceso de ocultar información en una imagen o archivo de audio sin cambiar su apariencia o sonido?
+Esteganografía
+Encriptación
+Decodificación
+1
+
+¿Qué es un "servidor web"?
+Un ordenador o sistema que almacena y sirve páginas web
+Un dispositivo de entrada en una computadora
+Un programa de procesamiento de textos
+1
+
+¿Cuál de las siguientes opciones es un lenguaje de programación orientado a objetos desarrollado por Microsoft?
+C#
+Java
+Python
+1
+
+¿Cuál es la función principal de un sistema operativo en una computadora?
+Gestionar los recursos del hardware 
+Realizar cálculos matemáticos
+Proteger la computadora contra virus y malware
+1
+
+¿Qué es un "backup" en informática?
+Una copia de seguridad de los datos
+Un tipo de virus informático
+Un archivo ejecutable
+1
+
+¿Cuál es el lenguaje de marcado utilizado para dar formato y estructura a los documentos web?
+HTML
+Java
+Python
+1
+
+¿Qué función tiene un "router" en una red de computadoras?
+Dirigir el tráfico de red entre dispositivos
+Procesar datos en una computadora
+Proteger una red contra ataques cibernéticos
+1
+
+¿Cuál de las siguientes opciones es un lenguaje de programación ampliamente utilizado en el desarrollo de aplicaciones móviles?
+Java
+HTML
+Python
+1
+
+¿Qué es un "hackeo ético"?
+Una actividad legal y autorizada para evaluar la seguridad 
+Una actividad ilegal para dañar o acceder a sistemas
+Un virus informático
+1
+
+¿Cuál es el sistema de gestión de bases de datos más utilizado en el mundo?
+MySQL
+Microsoft Word
+Photoshop
+1
+
+¿Qué es un "algoritmo" en informática?
+Un conjunto de instrucciones o pasos para realizar una tarea
+Un programa de diseño gráfico
+Un lenguaje de programación
+1
+
+¿Cual es una dirección IP?
+192.154.100.5
+14.21.22
+238.124.33.00
+1
+
+¿Cual es el comando para revisar redes en las computadoras?
+Ipconfig
+Netstat
+Ping
+1

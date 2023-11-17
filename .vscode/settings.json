@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ncurses.h": "c",
+        "S.C": "cpp"
+    }
+}

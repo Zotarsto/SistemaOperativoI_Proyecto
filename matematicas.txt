@@ -1,0 +1,179 @@
+¿Cuánto es 5 + 3?
+7
+8
+6
+1
+
+¿Cuál es el resultado de 9 - 4?
+3
+5
+6
+2
+
+¿Si tienes 2 manzanas y comes 1, cuántas manzanas te quedan?
+1
+2
+0
+1
+
+¿Cuánto es 6 multiplicado por 7?
+42
+12
+49
+1
+
+¿Si divides 10 entre 2, cuál es el resultado?
+5
+2
+8
+1
+
+¿Cuál es el resultado de 4 al cuadrado (4²)?
+16
+8
+2
+1
+
+Si tienes 3 cuartos y sumas 2 cuartos más, ¿cuántos cuartos tienes en total?
+4
+5
+3
+2
+
+Si 8 es el doble de un número, ¿cuál es ese número?
+4
+6
+8
+1
+
+¿Cuánto es la mitad de 12?
+3
+6
+12
+2
+
+Si sumas 9 y le restas 3, ¿cuál es el resultado?
+6
+12
+3
+1
+
+¿Cuánto es 15 dividido por 3?
+5
+3
+10
+1
+
+Si compras un objeto por $25 y le añades $15, ¿cuánto pagaste en total?
+$30
+$40
+$25
+2
+
+Si tienes 4 dimes (monedas de 10 centavos) y 3 nickels (monedas de 5 centavos), ¿cuántos centavos tienes en total?
+55 centavos
+40 centavos
+25 centavos
+1
+
+Si un libro cuesta $12 y compras 3 libros iguales, ¿cuánto pagas en total?
+$36
+$15
+$48
+1
+
+Si tienes 5 amigos y les das a cada uno 2 galletas, ¿cuántas galletas has repartido en total?
+7 galletas
+10 galletas
+9 galletas
+2
+
+Si una pizza se divide en 8 rebanadas y comes 3, ¿cuántas rebanadas quedan?
+3 rebanadas
+5 rebanadas
+8 rebanadas
+2
+
+Si tienes $50 y gastas $20, ¿cuánto dinero te queda?
+$20
+$30
+$50
+2
+
+¿Cuál es el resultado de 6 multiplicado por 0?
+0
+6
+12
+1
+
+Si un triángulo tiene 3 lados y un cuadrado tiene 4 lados, ¿cuántos lados tiene un pentágono?
+5 lados
+6 lados
+4 lados
+1
+
+¿Cuál es el número anterior a 9?
+7
+10
+8
+3
+
+Si tienes 2 docenas de huevos, ¿cuántos huevos tienes en total?
+12 huevos
+24 huevos
+36 huevos
+2
+
+Si sumas 7 y le restas 2, ¿cuál es el resultado?
+9
+5
+2
+2
+
+¿Cuál es la raíz cuadrada de 25?
+5
+6
+25
+1
+
+Si un rectángulo tiene 8 cm de largo y 4 cm de ancho, ¿cuál es su área?
+12 cm²
+32 cm²
+20 cm²
+2
+
+Si caminas 2 kilómetros y luego corres 3 kilómetros, ¿cuánta distancia recorriste en total?
+2 kilómetros
+3 kilómetros
+5 kilómetros
+3
+
+Si una docena de rosquillas contiene 12 rosquillas, ¿cuántas rosquillas contiene media docena?
+6 rosquillas
+12 rosquillas
+3 rosquillas
+1
+
+Si tienes 10 bolígrafos y regalas 4, ¿cuántos bolígrafos te quedan?
+14 bolígrafos
+6 bolígrafos
+10 bolígrafos
+2
+
+Si un cubo tiene 6 caras, ¿cuántas aristas tiene?
+12 aristas
+6 aristas
+24 aristas
+1
+
+¿Cuál es el resultado de la siguiente multiplicación 10*5?
+25
+15
+50
+3
+
+¿Cuál es la suma de todos los ángulos de un triangulo?
+360°
+180°
+90°
+2

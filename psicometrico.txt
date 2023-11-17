@@ -1,0 +1,178 @@
+¿Si todos los gatos son animales y algunos animales son perros, ¿es cierto que algunos gatos son perros?
+Sí
+No
+No se puede determinar
+2
+
+En una secuencia numérica, ¿cuál es el siguiente número después de 2, 5, 8, 11, ...?
+12
+13
+14
+3
+
+¿Cuál de las siguientes palabras no encaja en el grupo?
+Manzana
+Naranja
+Sandwich
+3
+
+Si a=3 y b=5, ¿cuál es el resultado de a+b?
+8
+15
+53
+2
+
+Si un tren viaja a 80 km/h, ¿cuántos kilómetros recorrerá en 2.5 horas?
+20 km
+125 km
+200 km
+3
+
+Si algunos pájaros vuelan y los pingüinos son pájaros, ¿pueden los pingüinos volar?
+Si
+No
+No se puede determinar
+2
+
+Si 3 manzanas cuestan $1, ¿cuánto cuestan 10 manzanas?
+$3.3
+$10
+$30.6
+1
+
+Si ningún perro es verde y todo lo que es verde es una planta, ¿es cierto que ningún perro es una planta?
+Sí
+No
+No se puede determinar
+1
+
+Si 4 gatos cazan 4 ratones en 4 minutos, ¿cuántos gatos se necesitan para cazar 16 ratones en 4 minutos?
+8 gatos
+12 gatos
+16 gatos
+3
+
+¿Cuál es la siguiente letra en la secuencia: A, C, E, G, ...?
+I
+H
+J
+2
+
+Si 6 es el doble de un número, ¿cuál es ese número?
+3
+4
+6
+1
+
+¿Cuál es la raíz cuadrada de 144?
+12
+14
+16
+1
+
+Si un cuadrado tiene un área de 16 metros cuadrados, ¿cuál es la longitud de un lado del cuadrado?
+4 metros
+6 metros
+8 metros
+1
+
+Observa la secuencia de números y elige el siguiente número: 3, 6, 12, 24, __.
+36
+48
+30
+2
+
+Si Juan es más alto que María, y María es más alta que Ana, ¿quién es la más alta de las tres?
+María
+Ana
+Juan
+3
+
+Si un reloj marca las 3:15, ¿cuántos grados ha girado la manecilla de la hora desde las 3 en punto?
+45 grados
+60 grados
+90 grados
+1
+
+¿Cuál es el número siguiente en la serie: 1, 3, 6, 10, ...?
+11
+13
+15
+3
+
+Si un coche viaja a una velocidad constante de 60 km/h, ¿cuánto tiempo tomará recorrer 180 kilómetros?
+2 horas
+3 horas
+4 horas
+2
+
+Si un avión se estrella justo en la frontera entre Estados Unidos y México, ¿dónde enterrarías a los sobrevivientes?
+Mexico
+Estados Unidos
+Ninguna de las anteriores
+3
+
+¿Qué pesa más, un kilo de algodón o un kilo de hierro?
+Algodon
+Hierro
+Ninguna de las anteriores
+3
+
+¿Cuántos meses tienen 28 días?
+1
+12
+Ninguna de las anteriores
+2
+
+Si se mezclan colores rojo y azul, ¿qué color se obtiene?
+Verde
+Amarillo
+Morado
+3
+
+Si un tren electrico va hacia el norte a 100km/h y el viento sopla hacia el oeste a 50km/h, ¿Hacia que dirección va el humo?
+Sur
+Este
+Ninguna de las anteriores
+3
+
+¿Que es algo que se rompe al nombrarlo?
+Silencio
+Vidrio
+Huevo
+1
+
+¿Qué es algo que siempre está delante de ti pero no puedes ver?
+El tiempo
+El pasado
+El futuro
+3
+
+Si arrojas una moneda al aire, ¿cuántas posibilidades tienes de que caiga cara?
+Una
+Dos
+Tres
+2
+
+¿Quien puede estar vivo y muerto a la vez?
+Zombie
+Gato de Schrodinger
+Ninguna de las anteriores
+2
+
+¿Cuál es la serie lógica: 2, 4, 8, 16, ...?
+32
+24
+64
+1
+
+"El sol es una estrella. Todas las estrellas son planetas."
+El sol no es un planeta.
+Todas las estrellas son el sol.
+Los planetas son estrellas.
+
+A = 1, B = 2, C = 3, ¿qué número representa la palabra "ZAPATO"?
+83
+91
+100
+1
